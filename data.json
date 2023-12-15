@@ -1,0 +1,67 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "fullname": "Sikharin Raksachat",
+      "email": "ohm@gmail.com",
+      "password": "ohm321",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "fullname": "Suppanat Kunnui",
+      "email": "min@gmail.com",
+      "password": "14433000",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "fullname": "Demo",
+      "email": "Test@gmail.com",
+      "password": "1234",
+      "gender": "Male"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Sikharin Raksachat",
+      "email": "ohm@gmail.com",
+      "password": "ohm123",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "fullname": "Suppanat Kunnui",
+      "email": "min@gmail.com",
+      "password": "min1123",
+      "gender": "Male"
+    }
+  ],
+  "leave": [
+    {
+      "id": 1,
+      "fullname": "Sikharin Raksachat",
+      "cause": "ไข้หวัด",
+      "date_start": "2023-09-12",
+      "date_end": "2023-09-18",
+      "gender": "ลาป่วย"
+    },
+    {
+      "id": 7,
+      "fullname": "ศิขรินทร์ รักษาชาติ",
+      "cause": "ไปทำธุระที่ต่างจังหวัด",
+      "date_start": "2023-09-12 12.00",
+      "date_end": "2023-09-13 12.00",
+      "gender": null
+    },
+    {
+      "id": 8,
+      "fullname": "ศุภณัฐ ขุนนุ้ย",
+      "cause": "ไปเยี่ยมครอบครัว",
+      "date_start": "2023-10-01 13:10:00.000",
+      "date_end": "2023-10-02 13:11:00.000",
+      "gender": "ลากิจ"
+    }
+  ]
+}
